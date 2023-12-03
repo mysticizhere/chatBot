@@ -29,7 +29,7 @@ def chat():
         user_input = input()
 
         if user_input.lower() == 'quit':
-            print('Pandora: Take care. See you soon.')
+            print('CareBot: Take care. See you soon.')
             break
 
         # Predict using the model
@@ -42,9 +42,17 @@ def chat():
         for intent in data['intents']:
             if intent['tag'] == predicted_tag:
                 responses = intent['responses']
-                print('Pandora:', np.random.choice(responses))
-            else:
-                print('Pandora:', 'I am sorry I did not understand you, try to rephrase your statement')
+                print('CareBot:', np.random.choice(responses))
+        #     else:
+        #         print('CareBot:', 'I am sorry I did not understand you, try to rephrase your statement')
+        # for intent in data['intents']:
+        #     if intent['tag'] == predicted_tag:
+        #         responses = intent['responses']
+        #         print('CareBot:', np.random.choice(responses))
+        #         break
+        # else:
+        #     print('CareBot:', 'I am sorry I did not understand you, try to rephrase your statement')
 
-print('Start talking with Pandora. (Type quit to stop talking)')
+
+print('Start talking with CareBot. (Type quit to stop talking)')
 chat()
