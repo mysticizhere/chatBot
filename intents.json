@@ -1,0 +1,1274 @@
+{"intents": [
+    {
+        "tag": "Introduction",
+        "patterns": [
+            "I'm dealing with a substance abuse problem and need assistance.",
+            "Hey, I'm looking for support to overcome addiction.",
+            "Is there someone who can help me with my drug dependency?",
+            "Hi, I'm struggling with substance misuse and need guidance.",
+            "Hello, I'm in need of advice regarding my addiction issues.",
+            "I'm here because I'm battling addiction and need help.",
+            "Is there anyone who can assist me with my drug addiction?",
+            "Hi there, I'm seeking assistance for my substance abuse problem.",
+            "Hello, I'm trying to find help for my addiction issues.",
+            "I need support in dealing with my drug dependency. Can you help?",
+            "Hey, I'm reaching out for help with my substance addiction.",
+            "I'm in a tough spot with drug addiction and need guidance.",
+            "Is there a way to get help for someone struggling with substance abuse?",
+            "Hi, I'm looking for resources to overcome drug addiction.",
+            "Hello, I'm here because I'm battling with substance misuse.",
+            "I'm seeking guidance for dealing with addiction problems.",
+            "Hey, I'm trying to find assistance for my drug dependency.",
+            "I'm facing challenges with addiction and need support.",
+            "Is there anyone who can provide assistance for substance abuse?",
+            "Hi there, I'm struggling with substance addiction and need help."
+        ],
+        "responses": [
+            "Hello, I'm here to help. Can you tell me more about your situation?",
+            "Welcome. Let's discuss how I can support you through this.",
+            "I'm here to listen. Please share your concerns."
+        ]
+    },    
+    {
+        "tag": "Need for Change",
+        "patterns": [
+            "I'm determined to overcome my drug addiction. How do I start?",
+            "What steps can I take to break free from my substance abuse?",
+            "I want to make a change in my life and leave addiction behind.",
+            "How do I transition into a drug-free lifestyle?",
+            "I'm committed to quitting drugs. Can you help me with a plan?",
+            "Breaking free from addiction feels overwhelming. Where do I begin?",
+            "I'm tired of my addiction. How can I start the process of change?",
+            "I'm prepared to make a significant change in my life by quitting drugs.",
+            "What strategies can I use to overcome my addiction and make a change?",
+            "I'm determined to live a sober life. How do I get started?",
+            "I'm ready to break the cycle of addiction. What's the first step?",
+            "I'm looking for guidance on how to initiate a change and quit drugs.",
+            "I'm motivated to turn away from drugs. Where do I seek guidance?",
+            "How do I transform my life and break free from drug dependency?",
+            "I've decided to make a change and leave addiction behind. What's next?",
+            "I want to end my reliance on drugs. What actions should I take?",
+            "How can I transition from addiction to a healthier lifestyle?",
+            "I'm determined to overcome addiction. How do I proceed?",
+            "I want to start a new chapter in my life without drugs. What do I do?",
+            "I'm seeking advice on how to initiate change and quit using drugs."
+        ],
+        "responses": [
+            "Acknowledging the need for change is a big step. Let's work together on a plan.",
+            "It's courageous to seek change. We'll navigate this journey together.",
+            "Committing to change is the first step. I'll guide you through the process."
+        ]
+    },    
+    {
+        "tag": "Withdrawal Symptoms",
+        "patterns": [
+            "I'm going through withdrawal and it's tough.",
+            "What should I expect during withdrawal?",
+            "I think I'm experiencing withdrawal. What do I do?",
+            "Are there ways to make withdrawal more manageable?",
+            "I'm feeling awful due to withdrawal symptoms.",
+            "Can you help me handle the symptoms of withdrawal?",
+            "I'm having withdrawal symptoms. How do I cope?",
+            "How long do withdrawal symptoms usually last?",
+            "What can I do to alleviate withdrawal discomfort?",
+            "I'm experiencing withdrawal. Is there any advice you can offer?",
+            "Are there specific techniques to deal with withdrawal symptoms?",
+            "What are the typical withdrawal signs I should watch out for?",
+            "I'm struggling with withdrawal. Can you assist me?",
+            "Is there a way to minimize the intensity of withdrawal symptoms?",
+            "I need guidance on managing withdrawal. Can you help?",
+            "How do I cope with the physical symptoms of withdrawal?",
+            "What steps can I take to handle withdrawal symptoms better?",
+            "I'm finding it hard to manage withdrawal. What can I do?",
+            "Are there natural remedies for alleviating withdrawal symptoms?",
+            "I want to ease the discomfort of withdrawal. Any suggestions?",
+            "I'm in the midst of withdrawal. How can I make it easier?",
+            "What strategies can I use to deal with withdrawal symptoms effectively?",
+            "I'm experiencing withdrawal effects. How do I manage?",
+            "Can withdrawal symptoms be dangerous? How do I stay safe?",
+            "I'm feeling overwhelmed by withdrawal symptoms. What now?",
+            "Are there medications that can help with withdrawal?",
+            "I'm encountering withdrawal symptoms. How can I cope emotionally?",
+            "Is there a timeline for when withdrawal symptoms peak and subside?",
+            "I need advice on handling withdrawal symptoms. Where do I start?",
+            "What can I do to reduce the severity of withdrawal symptoms?"
+        ],
+        "responses": [
+            "Withdrawal symptoms are common. I can help you manage them safely.",
+            "Withdrawal can be challenging, but there are ways to ease the discomfort.",
+            "Let's discuss strategies to cope with withdrawal symptoms."
+        ]
+    },
+    {
+        "tag": "Withdrawal Symptoms Strategies",
+        "patterns": [
+            "How can I alleviate withdrawal symptoms effectively?",
+            "I need strategies to cope with withdrawal symptoms.",
+            "Can you provide tips for managing withdrawal symptoms?",
+            "What are some effective ways to deal with withdrawal?",
+            "How do I find relief from withdrawal symptoms?",
+            "I'm seeking strategies to handle withdrawal. Any advice?",
+            "Are there specific techniques to ease withdrawal symptoms?",
+            "I need help managing the discomfort of withdrawal. What can I do?",
+            "What strategies can I use to make withdrawal symptoms more bearable?",
+            "How do I mitigate the effects of withdrawal?",
+            "Can you suggest practical ways to manage withdrawal symptoms?",
+            "I want to minimize the impact of withdrawal. Any strategies?",
+            "Are there lifestyle changes that help with withdrawal symptoms?",
+            "What self-care practices can help alleviate withdrawal symptoms?",
+            "I'm looking for effective strategies to cope with withdrawal.",
+            "How can I make the withdrawal process smoother?",
+            "What are some holistic approaches to managing withdrawal symptoms?",
+            "Are there exercises or activities that help during withdrawal?",
+            "What dietary changes can assist in reducing withdrawal symptoms?",
+            "I need strategies to handle both physical and emotional withdrawal symptoms.",
+            "Can you recommend relaxation techniques for coping with withdrawal?",
+            "How do I create a plan to address withdrawal symptoms?",
+            "Are there support groups or communities for managing withdrawal?",
+            "What role does mindfulness play in dealing with withdrawal symptoms?",
+            "How can I distract myself from the discomfort of withdrawal?",
+            "Can you suggest ways to manage withdrawal symptoms without medication?",
+            "I'm looking for natural remedies to ease withdrawal symptoms.",
+            "What strategies can I employ to prevent relapse during withdrawal?",
+            "How do I stay motivated while dealing with withdrawal symptoms?"
+        ],
+        "responses": [
+            "Certainly! Managing withdrawal symptoms involves a variety of strategies: Maintain hydration by drinking plenty of water throughout the day. Adequate sleep is crucial, so establish a regular sleep schedule. Engage in light exercises like walking or yoga to reduce stress. Practice deep breathing exercises to manage anxiety. Consider distraction techniques such as puzzles or hobbies to divert attention from discomfort. Seek support from therapy or counseling services to address emotional aspects.",
+        "Here's a breakdown of effective approaches to alleviate withdrawal symptoms: Prioritize nutrition by eating balanced meals and avoiding stimulants like caffeine or sugary foods. Incorporate mindfulness practices like meditation or progressive muscle relaxation. Stay physically active with exercises such as jogging, swimming, or cycling. Keep a journal to track symptoms and identify patterns. Connect with a support network, whether through family, friends, or support groups.",
+        "To ease withdrawal symptoms, consider these comprehensive strategies: Create a structured daily routine to provide a sense of stability. Practice mindfulness techniques such as mindful breathing or body scans. Engage in light exercises like stretching or tai chi for relaxation. Focus on healthy eating habits, emphasizing whole foods and adequate hydration. Seek professional guidance from a healthcare provider or addiction counselor for personalized support.",
+        "Managing withdrawal discomfort can include these detailed strategies: Practice self-care activities like taking warm baths or practicing aromatherapy. Stay hydrated by drinking water or herbal teas throughout the day. Incorporate relaxation techniques such as guided imagery or progressive muscle relaxation. Engage in hobbies or activities that bring joy and distract from symptoms. Consult with a healthcare professional to explore medication-assisted treatments or therapy options.",
+        "Absolutely! Here are specific methods to assist in handling withdrawal symptoms: Establish a consistent sleep schedule to ensure adequate rest. Consume nutritious meals, focusing on a balanced diet with fruits, vegetables, and whole grains. Engage in moderate exercise, such as brisk walking or yoga, to boost mood and alleviate symptoms. Explore holistic approaches like acupuncture or massage therapy for relaxation. Connect with a therapist or support group to address emotional challenges."
+        ]
+    },        
+    {
+        "tag": "Relapse Prevention",
+        "patterns": [
+            "What steps can I take to avoid relapse?",
+            "I want to prevent a relapse. Any advice?",
+            "How do I stay on track and prevent relapse?",
+            "I'm worried about relapsing. What should I do?",
+            "What strategies help in preventing relapse?",
+            "I need guidance on avoiding a relapse.",
+            "Can you help me create a relapse prevention plan?",
+            "How do I bounce back after a relapse?",
+            "I feel tempted to relapse. What can I do?",
+            "What are the warning signs of an impending relapse?",
+            "I want to build resilience against relapse. How?",
+            "What habits can I cultivate to prevent relapse?",
+            "I need support to stay away from relapsing.",
+            "How do I deal with triggers to prevent a relapse?",
+            "Are there specific coping mechanisms for relapse prevention?",
+            "I'm determined to stay sober. How do I prevent relapse?",
+            "Can you provide strategies for long-term relapse prevention?",
+            "I've had a setback. How do I prevent future relapses?",
+            "How do I handle stress to avoid relapse?",
+            "I need guidance on maintaining sobriety and avoiding relapse."
+        ],
+        "responses": [
+            "To prevent relapse, it's essential to: Identify triggers and develop coping strategies to manage them effectively. Cultivate a strong support network through therapy, support groups, or trusted friends/family. Practice self-care and stress-management techniques such as mindfulness, exercise, and adequate sleep. Create a relapse prevention plan with specific steps to follow during challenging moments.",
+            "Staying focused on relapse prevention involves: Recognizing warning signs early, such as increased stress or negative emotions. Engaging in activities that bring joy or relaxation, like hobbies or spending time outdoors. Learning from past relapse experiences to refine coping strategies. Seeking professional guidance if feeling overwhelmed or at risk of relapse.",
+            "Building resilience against relapse includes: Practicing mindfulness to stay present and manage cravings effectively. Learning and implementing healthy coping mechanisms for stress and triggers. Creating a routine that supports sobriety, including regular exercise and healthy eating habits. Identifying and addressing underlying emotional or psychological issues that may contribute to relapse."
+        ]
+    },    
+    {
+        "tag": "Triggers",
+        "patterns": [
+            "Certain situations trigger my cravings.",
+            "How do I manage triggers?",
+            "I feel overwhelmed by triggers.",
+            "What are common triggers for relapse?",
+            "How can I avoid situations that trigger cravings?",
+            "I need help identifying and handling triggers.",
+            "Can you provide strategies for dealing with triggers?",
+            "What strategies can I use to overcome triggers?",
+            "I'm worried about encountering triggers. What should I do?",
+            "How do I stay strong when facing triggers?",
+            "Are there specific coping mechanisms for dealing with triggers?",
+            "I want to understand my triggers better. Any advice?",
+            "How can I build resilience against triggers?",
+            "What can I do to minimize the impact of triggers?",
+            "I feel vulnerable to triggers. How do I protect myself?",
+            "Can you help me create a plan to manage triggers?",
+            "How do I recognize hidden triggers?",
+            "I need guidance on avoiding triggers that lead to cravings.",
+            "What steps can I take to cope with unexpected triggers?",
+            "I'm seeking strategies to handle triggers more effectively."
+        ],
+        "responses": [
+            "Understanding and managing triggers involves: Identifying specific situations, emotions, or people that prompt cravings. Developing coping strategies such as deep breathing, distraction techniques, or engaging in a hobby. Creating a plan to avoid or minimize exposure to triggers when possible. Seeking support from a therapist or support group to work through triggers.",
+            "Dealing with triggers requires: Learning to recognize and accept the presence of triggers without feeling overwhelmed. Using mindfulness techniques to stay present and manage cravings effectively. Practicing self-compassion and understanding that setbacks may occur, but they don't define progress. Engaging in activities that promote relaxation and reduce stress levels.",
+            "Building resilience against triggers includes: Engaging in cognitive-behavioral exercises to reframe thoughts about triggers. Developing a toolbox of coping skills like journaling, meditation, or talking to a trusted person when triggered. Creating a supportive environment by surrounding yourself with positive influences and minimizing exposure to triggers when possible. Seeking professional guidance to address underlying issues related to triggers."
+        ]
+    },    
+    {
+        "tag": "Support Systems",
+        "patterns": [
+            "I need support from my family.",
+            "How do I involve my loved ones in recovery?",
+            "Supportive friends are crucial.",
+            "What role can my family play in my recovery?",
+            "How do I communicate my needs to my family for support?",
+            "I want to involve my friends in my recovery. Any advice?",
+            "Can you help me build a support system with my family?",
+            "How do I seek support from my close ones during recovery?",
+            "I need guidance on involving my loved ones in my healing process.",
+            "What can I do to encourage my family to support me in recovery?",
+            "I'm struggling to involve my family in my recovery journey. Help?",
+            "Are there specific ways to include friends in my path to recovery?",
+            "How can I create a supportive environment with my family?",
+            "What steps can I take to engage my friends in supporting my recovery?",
+            "I feel isolated in my recovery. How can I involve my family?",
+            "How do I address resistance from family members regarding my recovery?",
+            "What strategies can I use to involve my loved ones effectively?",
+            "I'm seeking ways to strengthen my support network with family and friends.",
+            "How can I maintain healthy boundaries while involving my family in recovery?",
+            "I want to build a supportive community. How do I start?"
+        ],
+        "responses": [
+            "Involving your family can be beneficial. Let's discuss how to approach it.",
+            "Supportive relationships are key. We'll explore ways to engage your loved ones.",
+            "Building a support network is important. We'll work on involving them in your recovery."
+        ]
+    },    
+    {
+        "tag": "Dual Diagnosis",
+        "patterns": ["I have a mental health issue alongside addiction.", "How do I manage both conditions?", "Dual diagnosis is overwhelming."],
+        "responses": ["Managing dual diagnosis is complex but possible. Let's create a comprehensive plan.", "Addressing both issues is important. We'll develop strategies to support you.", "Dual diagnosis can be challenging, but we'll navigate it together."]
+    },
+    {
+        "tag": "Craving Management",
+        "patterns": ["I struggle with intense cravings.", "How can I handle strong cravings?", "Cravings affect my recovery."],
+        "responses": ["Cravings are part of recovery. Let's work on coping mechanisms.", "Managing cravings is possible. We'll explore effective strategies.", "Craving management is crucial. We'll develop a plan to address this."]
+    },
+    {
+        "tag": "Legal Issues",
+        "patterns": ["Legal problems due to substance abuse worry me.", "How do I handle legal consequences?", "I'm facing legal repercussions."],
+        "responses": ["Legal issues can be daunting. Let's explore options and support you.", "Addressing legal matters is essential. We'll work on strategies to manage it.", "Facing legal consequences can be overwhelming. We'll navigate this together."]
+    },
+    {
+        "tag": "Overcoming Shame",
+        "patterns": ["I feel ashamed of my addiction.", "How do I overcome shame and guilt?", "Shame hinders my recovery."],
+        "responses": ["Shame is common but doesn't define you. Let's work on self-compassion.", "Overcoming shame is a process. We'll focus on building self-worth.", "Shifting from shame to self-acceptance is important. We'll address this together."]
+    },
+    {
+        "tag": "Coping Strategies",
+        "patterns": ["What coping strategies can help during recovery?", "How do I cope with cravings?", "I need strategies to manage stress."],
+        "responses": ["There are various coping strategies. Let's explore what might work best for you.", "Coping strategies can include mindfulness, distraction, or seeking support.", "Developing coping strategies is a key part of recovery. We'll work on personalized techniques."]
+    },
+    {
+        "tag": "Substance Education",
+        "patterns": ["Can you educate me about different substances?", "I want to learn more about the effects of drugs.", "How do drugs impact the body and mind?"],
+        "responses": ["Educating about substances is important. We'll cover their effects, risks, and impact.", "Understanding substances helps in making informed decisions. Let's dive into it.", "Substance education involves understanding risks, effects, and ways to stay safe."]
+    },
+    {
+        "tag": "Family Support",
+        "patterns": ["How can family support my recovery?", "My family doesn't understand. What should I do?", "Involving family in my recovery seems tough."],
+        "responses": ["Family support can be vital. Let's discuss ways to involve and educate your family.", "Communicating your needs to your family is important. We'll explore effective ways.", "Involving family can be challenging, but we'll work on strategies together."]
+    },
+    {
+        "tag": "Mental Health Awareness",
+        "patterns": ["Is mental health linked to addiction?", "How does mental health impact addiction?", "Can you help me understand mental health disorders?"],
+        "responses": ["Mental health and addiction are interconnected. Let's explore this relationship.", "Understanding mental health's role in addiction is crucial. Let's delve deeper.", "Mental health disorders can influence addiction. We'll discuss their implications."]
+    },
+    {
+        "tag": "Emotional Regulation",
+        "patterns": ["I struggle with managing my emotions.", "How can I regulate my emotions during recovery?", "Emotions affect my cravings."],
+        "responses": ["Emotional regulation is a skill we can develop. Let's work on techniques together.", "Managing emotions is important in recovery. Let's explore ways to do this effectively.", "Emotional regulation can impact cravings. We'll address this aspect."]
+    },
+    {
+        "tag": "Holistic Recovery",
+        "patterns": ["What does holistic recovery involve?", "How can I approach recovery holistically?", "I want a comprehensive approach to recovery."],
+        "responses": ["Holistic recovery includes physical, mental, and emotional aspects. Let's develop a holistic plan.", "A holistic approach involves addressing various facets of life. Let's create a comprehensive strategy.", "A comprehensive approach to recovery considers multiple dimensions. Let's work on integrating this into your plan."]
+    },
+    {
+        "tag": "Self-Care Practices",
+        "patterns": ["What self-care practices can aid in recovery?", "How do I prioritize self-care during recovery?", "I struggle to take care of myself."],
+        "responses": ["Self-care is crucial in recovery. Let's explore practices that resonate with you.", "Prioritizing self-care is important. We'll work on making it a part of your routine.", "Taking care of yourself is a priority. Let's develop a self-care plan."]
+    },
+    {
+        "tag": "Cognitive Restructuring",
+        "patterns": ["What is cognitive restructuring?", "Can cognitive restructuring help in recovery?", "How do I restructure my thoughts?"],
+        "responses": ["Cognitive restructuring involves changing thought patterns. We'll explore techniques to do this.", "Using cognitive restructuring techniques can positively impact recovery. Let's learn more about it.", "Restructuring thoughts is possible. We'll work on strategies together."]
+    },
+    {
+        "tag": "Goal Setting",
+        "patterns": ["How can goal setting help in recovery?", "I struggle with setting achievable goals.", "Can you assist me in setting recovery goals?"],
+        "responses": ["Setting goals is important in recovery. Let's create realistic and achievable ones.", "Setting achievable goals is crucial. We'll work on setting up a step-by-step plan.", "Goal setting can provide direction in recovery. Let's identify and set your recovery goals."]
+    },
+    {
+        "tag": "Mindfulness Techniques",
+        "patterns": ["What mindfulness techniques aid in recovery?", "How can I practice mindfulness during recovery?", "I find it hard to be mindful."],
+        "responses": ["Mindfulness practices can help in managing cravings and stress. Let's explore these techniques.", "Incorporating mindfulness can support your recovery. Let's find techniques that suit you.", "Mindfulness can be challenging initially, but we'll start with simple techniques and progress."]
+    },
+    {
+        "tag": "Stigma Reduction",
+        "patterns": ["How can I reduce stigma around addiction?", "Stigma affects my recovery. What should I do?", "Can you help me cope with societal stigma?"],
+        "responses": ["Reducing stigma involves education and awareness. Let's explore ways to challenge stigma.", "Stigma can be challenging but acknowledging your worth is key. Let's work on building self-compassion.", "Addressing societal stigma is crucial. Let's develop strategies to navigate this."]
+    },
+    {
+        "tag": "Community Resources",
+        "patterns": ["What resources does the community offer for recovery?", "How can I connect with community support?", "I feel isolated. Are there community programs?"],
+        "responses": ["Communities offer various support programs. Let's explore available resources together.", "Connecting with community resources is beneficial. Let's identify and access these services.", "Community programs can provide valuable support. Let's explore available options."]
+    },
+    {
+        "tag": "Harm Reduction",
+        "patterns": ["Can harm reduction strategies aid in recovery?", "How do I practice harm reduction?", "I want to reduce harm caused by addiction."],
+        "responses": ["Harm reduction strategies focus on minimizing risks. Let's explore how to incorporate these into your life.", "Practicing harm reduction involves practical strategies. Let's discuss and implement them.", "Reducing harm is a valid approach. Let's work on strategies to minimize risks."]
+    },
+    {
+        "tag": "Coping with Stress",
+        "patterns": ["I struggle with managing stress during recovery.", "How can I cope with stress without turning to substances?", "Stress impacts my recovery negatively."],
+        "responses": ["Coping with stress is crucial. Let's explore stress-relief techniques that don't involve substances.", "Managing stress without substances is possible. Let's work on stress management strategies.", "Stress management is a key aspect of recovery. Let's develop coping mechanisms."]
+    },
+    {
+        "tag": "Personal Boundaries",
+        "patterns": ["I find it hard to set boundaries in relationships.", "How can I establish and maintain personal boundaries?", "Boundaries affect my recovery."],
+        "responses": ["Setting boundaries is essential for self-care. Let's work on establishing healthy boundaries.", "Maintaining personal boundaries is important. Let's explore ways to communicate and enforce them.", "Boundaries are crucial in relationships. Let's develop strategies to set and maintain them."]
+    },
+    {
+        "tag": "Resilience Building",
+        "patterns": ["How can I build resilience during my recovery?", "I feel fragile in my recovery journey. How do I build resilience?", "Resilience is important for me."],
+        "responses": ["Building resilience is a gradual process. Let's work on strengthening your coping skills.", "Resilience is cultivated through experience. Let's explore resilience-building techniques.", "Fostering resilience is possible. Let's focus on building strength and adaptability."]
+    },
+    {
+        "tag": "Nutrition and Wellness",
+        "patterns": ["How does nutrition impact recovery?", "Can good nutrition aid in addiction recovery?", "I want to focus on my wellness during recovery."],
+        "responses": ["Nutrition plays a role in overall health and recovery. Let's discuss a balanced diet plan.", "Good nutrition supports recovery. We'll work on creating a healthy eating routine.", "Prioritizing wellness includes nutrition. Let's develop a wellness plan."]
+    },
+    {
+        "tag": "Sleep Hygiene",
+        "patterns": ["My sleep patterns are disrupted due to addiction. What should I do?", "How can I improve my sleep hygiene during recovery?", "Sleep troubles affect my recovery."],
+        "responses": ["Sleep hygiene is important for recovery. Let's explore techniques to improve your sleep patterns.", "Establishing good sleep habits is beneficial. Let's work on improving your sleep hygiene.", "Sleep disruption is common. Let's develop strategies for better sleep."]
+    },
+    {
+        "tag": "Healthy Relationships",
+        "patterns": ["How do healthy relationships contribute to recovery?", "I want to foster healthy relationships during recovery.", "Unhealthy relationships hinder my recovery."],
+        "responses": ["Healthy relationships support recovery. Let's explore characteristics of positive relationships.", "Fostering healthy connections is beneficial. We'll work on nurturing positive relationships.", "Identifying and nurturing healthy relationships is important. Let's discuss ways to cultivate them."]
+    },
+    {
+        "tag": "Coping with Trauma",
+        "patterns": ["I've experienced trauma and it affects my recovery.", "How can I cope with trauma without turning to substances?", "Trauma impacts my mental health and recovery."],
+        "responses": ["Coping with trauma is a significant part of recovery. Let's explore trauma-informed techniques.", "Healing from trauma without substances is possible. Let's work on trauma-focused strategies.", "Addressing trauma is essential for recovery. Let's develop coping mechanisms."]
+    },
+    {
+        "tag": "Peer Support",
+        "patterns": ["How does peer support help in recovery?", "I want to engage in peer support groups.", "Peer support is important for me."],
+        "responses": ["Peer support provides understanding and encouragement. Let's explore peer support group options.", "Participating in peer support groups is beneficial. We'll find groups that suit your needs.", "Connecting with peers in recovery can be empowering. Let's identify suitable peer support programs."]
+    },
+    {
+        "tag": "Motivational Interviewing",
+        "patterns": ["How does motivational interviewing help in recovery?", "Can you explain the process of motivational interviewing?", "I want to explore motivational interviewing."],
+        "responses": ["Motivational interviewing is a collaborative, goal-oriented approach. Let's discuss how it can benefit you.", "Motivational interviewing focuses on intrinsic motivation. Let's explore this approach in our sessions.", "Exploring motivational interviewing techniques can support your recovery. Let's dive into it."]
+    },
+    {
+        "tag": "Substance Use Patterns",
+        "patterns": ["How can I identify my substance use patterns?", "Understanding substance use patterns is important for me.", "Can you help me recognize my substance use triggers?"],
+        "responses": ["Recognizing substance use patterns is a crucial step in recovery. Let's work on identifying these patterns.", "Identifying your substance use patterns can provide insights. Let's explore them together.", "Understanding your triggers and patterns is important. Let's discuss and analyze them."]
+    },
+    {
+        "tag": "Anger Management",
+        "patterns": ["I struggle with managing anger during recovery.", "How can I cope with anger without substances?", "Anger negatively affects my recovery."],
+        "responses": ["Coping with anger is crucial for recovery. Let's explore anger management techniques.", "Managing anger without substances is possible. We'll work on coping strategies.", "Addressing anger issues is important. Let's develop techniques to manage it."]
+    },
+    {
+        "tag": "Meditation Practices",
+        "patterns": ["How can meditation aid in addiction recovery?", "I want to start practicing meditation.", "Meditation seems difficult for me."],
+        "responses": ["Meditation has benefits for mental well-being. Let's explore meditation practices suitable for you.", "Starting meditation can be simple. We'll begin with easy techniques.", "Beginning a meditation practice takes time. Let's start with guided sessions."]
+    },
+    {
+        "tag": "Art and Expressive Therapy",
+        "patterns": ["How can art therapy assist in recovery?", "I want to explore expressive therapies.", "Expressing myself through art seems challenging."],
+        "responses": ["Art therapy can be a powerful tool in recovery. Let's discuss how it can help you.", "Exploring expressive therapies is beneficial. Let's find creative ways for you to express yourself.", "Expressive therapies can be a non-verbal way to process emotions. Let's start with simple exercises."]
+    },
+    {
+        "tag": "Fitness and Exercise",
+        "patterns": ["How does fitness contribute to recovery?", "I want to incorporate exercise into my recovery routine.", "Exercise feels overwhelming for me."],
+        "responses": ["Fitness and exercise have positive effects on mental health. Let's discuss ways to incorporate exercise into your routine.", "Incorporating exercise can be gradual. Let's create a plan suited to your abilities.", "Starting with small steps is key. Let's create an exercise plan together."]
+    },
+    {
+        "tag": "Relational Recovery",
+        "patterns": ["How does building positive relationships aid in recovery?", "I struggle with building relationships during recovery.", "Healthy relationships seem hard to maintain."],
+        "responses": ["Building positive relationships is crucial for support in recovery. Let's explore ways to enhance relational recovery.", "Developing healthy relationships is possible. Let's work on communication and connection skills.", "Maintaining healthy relationships requires effort. Let's identify strategies together."]
+    },
+    {
+        "tag": "Motivation Enhancement",
+        "patterns": ["How can I enhance my motivation for recovery?", "I lack motivation in my recovery journey.", "Motivation is crucial for me."],
+        "responses": ["Enhancing motivation is key. Let's explore techniques to boost your motivation.", "Finding motivation in recovery is possible. Let's work on strategies to reignite your drive.", "Identifying what motivates you is important. Let's focus on enhancing your motivation."]
+    },
+    {
+        "tag": "Education and Empowerment",
+        "patterns": ["Can education empower me in my recovery?", "I seek empowerment through knowledge about addiction.", "Empowerment is important for my recovery."],
+        "responses": ["Education empowers. Let's explore resources and information beneficial for your recovery.", "Gaining knowledge about addiction is empowering. Let's discuss informative materials.", "Empowerment through education is valuable. Let's find resources aligned with your needs."]
+    },
+    {
+        "tag": "Mind-Body Connection",
+        "patterns": ["How does the mind-body connection impact addiction recovery?", "I want to explore mind-body techniques for recovery.", "I struggle with understanding the mind-body connection."],
+        "responses": ["The mind-body connection influences recovery. Let's explore mind-body techniques and their impact.", "Incorporating mind-body techniques is beneficial. Let's discuss and practice these techniques.", "Understanding the mind-body connection takes time. Let's start with simple exercises."]
+    },
+    {
+        "tag": "Coping with Cravings",
+        "patterns": ["How can I cope with cravings effectively?", "Cravings are challenging. What should I do?", "I need strategies to manage intense cravings."],
+        "responses": ["Coping with cravings is crucial. Let's explore techniques to manage and overcome them.", "Managing cravings without giving in is possible. Let's work on coping strategies.", "Developing coping mechanisms for cravings is important. Let's find personalized strategies."]
+    },
+    {
+        "tag": "Coping with Grief",
+        "patterns": ["I'm experiencing grief during my recovery journey.", "How can I cope with grief without relapsing?", "Grief affects my mental health and recovery."],
+        "responses": ["Coping with grief is part of the recovery process. Let's explore strategies to manage grief effectively.", "Navigating grief without relapse is possible. Let's work on coping mechanisms.", "Addressing grief's impact on recovery is important. Let's develop supportive strategies."]
+    },
+    {
+        "tag": "Self-Esteem Building",
+        "patterns": ["I struggle with low self-esteem during recovery.", "How can I build my self-esteem?", "Self-esteem affects my recovery negatively."],
+        "responses": ["Building self-esteem is crucial for recovery. Let's work on exercises to boost your self-worth.", "Improving self-esteem is a gradual process. Let's develop self-affirming techniques.", "Enhancing self-esteem supports recovery. Let's focus on positive self-talk and affirmations."]
+    },
+    {
+        "tag": "Addiction Triggers",
+        "patterns": ["How can I identify and manage my addiction triggers?", "I want to learn about my addiction triggers.", "Triggers affect my recovery."],
+        "responses": ["Identifying and managing triggers is essential for recovery. Let's explore techniques to recognize and cope with triggers.", "Understanding your triggers empowers recovery. Let's discuss and analyze potential triggers.", "Addressing triggers is important. Let's develop strategies to manage their impact."]
+    },
+    {
+        "tag": "Holistic Healing",
+        "patterns": ["What does holistic healing involve in addiction recovery?", "I seek a holistic approach to my recovery.", "Holistic healing seems beneficial for me."],
+        "responses": ["Holistic healing focuses on overall well-being. Let's explore holistic techniques suited to your recovery.", "Incorporating a holistic approach can be beneficial. Let's discuss various holistic practices.", "Exploring holistic healing methods is valuable. Let's find approaches aligned with your needs."]
+    },
+    {
+        "tag": "Mindful Awareness",
+        "patterns": ["How does mindfulness aid in addiction recovery?", "I want to cultivate mindfulness in my recovery.", "Mindfulness seems challenging to practice."],
+        "responses": ["Mindfulness supports recovery by increasing awareness. Let's practice mindfulness techniques together.", "Incorporating mindfulness is beneficial. Let's start with guided mindfulness exercises.", "Starting a mindfulness practice takes time. Let's explore simple mindfulness techniques."]
+    },
+    {
+        "tag": "Coping with Loneliness",
+        "patterns": ["I feel lonely during my recovery.", "How can I cope with loneliness without relapsing?", "Loneliness affects my mental health and recovery."],
+        "responses": ["Coping with loneliness is part of the recovery journey. Let's explore ways to connect and manage loneliness.", "Managing loneliness without relapse is possible. Let's work on coping strategies.", "Addressing loneliness is important. Let's develop supportive strategies to navigate it."]
+    },
+    {
+        "tag": "Acceptance and Commitment",
+        "patterns": ["How does acceptance and commitment therapy benefit recovery?", "I want to explore acceptance and commitment techniques.", "Commitment seems challenging for me."],
+        "responses": ["Acceptance and commitment therapy focuses on values and commitment. Let's explore how it can support your recovery.", "Incorporating acceptance and commitment techniques is beneficial. Let's discuss and practice these approaches.", "Commitment in recovery takes time. Let's start with understanding your values and goals."]
+    },
+    {
+        "tag": "Hope and Resilience",
+        "patterns": ["I feel hopeless in my recovery journey.", "How can I build resilience?", "I need hope to continue."],
+        "responses": ["Recovery involves ups and downs. Let's explore ways to cultivate hope.", "Building resilience is key. We'll work on strategies together.", "Finding hope is essential. Let's focus on fostering hopefulness."]
+    },
+    {
+        "tag": "Greeting",
+        "patterns": [
+            "Hi",
+            "Hey",
+            "Is anyone there?",
+            "Hi there",
+            "Hello",
+            "Hey there",
+            "Howdy",
+            "Hola",
+            "Bonjour",
+            "Konnichiwa",
+            "Guten tag",
+            "Ola"
+        ],
+        "responses": [
+            "Hello there. Tell me how are you feeling today?",
+            "Hi there. What brings you here today?",
+            "Hi there. How are you feeling today?",
+            "Great to see you. How do you feel currently?",
+            "Hello there. Glad to see you're back. What's going on in your world right now?"
+        ]
+    },    
+    {
+        "tag": "Morning",
+        "patterns": [
+            "Good morning",
+            "Morning!",
+            "Hey, morning",
+            "Greetings, morning",
+            "Good day",
+            "Rise and shine!",
+            "Morning, how are you?",
+            "Hello, it's morning",
+            "Hello there, good morning",
+            "Hi, good morning",
+            "Good morning! How's it going?",
+            "Good morning. Any plans for today?",
+            "Hello! Wishing you a great morning",
+            "Morning vibes!",
+            "Hi there, rise and shine!",
+            "Bonjour!",
+            "Konnichiwa, good morning",
+            "Guten Morgen",
+            "Ola, morning!",
+            "Hola, buenos días"
+        ],
+        "responses": [
+            "Good morning. I hope you had a good night's sleep. How are you feeling today?",
+            "Morning! How did you wake up feeling today?",
+            "Hey, good morning! How's the morning treating you so far?",
+            "Rise and shine! How are you this morning?",
+            "Morning, how's everything with you today?",
+            "Good morning! Any specific plans for this wonderful day?",
+            "Hello there! How's your morning looking?"
+        ]
+    },    
+    {
+        "tag": "Afternoon",
+        "patterns": [
+            "Good afternoon",
+            "Afternoon!",
+            "Hey there, good afternoon",
+            "Greetings, good afternoon",
+            "Hello, it's afternoon",
+            "Hi, good afternoon",
+            "Good afternoon! How's your day?",
+            "Afternoon vibes!",
+            "Hello! Wishing you a great afternoon",
+            "Hi there, good afternoon to you",
+            "Good day to you!",
+            "Hello, hoping you're having a nice afternoon",
+            "Afternoon, how's everything?",
+            "Bonjour, good afternoon",
+            "Konnichiwa, good afternoon",
+            "Guten Tag, guten nachmittag",
+            "Ola, good afternoon!",
+            "Hola, buenas tardes"
+        ],
+        "responses": [
+            "Good afternoon. How is your day going?",
+            "Afternoon! How's your day been so far?",
+            "Hey, good afternoon! How's the afternoon treating you?",
+            "Greetings! How's your afternoon unfolding?",
+            "Hello there! How's your afternoon looking?",
+            "Good afternoon! Anything exciting happening today?",
+            "Hi there! How's your afternoon been?"
+        ]
+    },    
+    {
+        "tag": "Evening",
+        "patterns": [
+            "Good evening",
+            "Evening!",
+            "Hey there, good evening",
+            "Greetings, good evening",
+            "Hello, it's evening",
+            "Hi, good evening",
+            "Good evening! How's your day?",
+            "Evening vibes!",
+            "Hello! Wishing you a great evening",
+            "Hi there, good evening to you",
+            "Good evening! How are things?",
+            "Hello, hoping you're having a nice evening",
+            "Evening, how's everything?",
+            "Bonjour, good evening",
+            "Konnichiwa, good evening",
+            "Guten Abend",
+            "Ola, good evening!",
+            "Hola, buenas noches"
+        ],
+        "responses": [
+            "Good evening. How has your day been?",
+            "Evening! How has your day unfolded?",
+            "Hey, good evening! How's the evening treating you?",
+            "Greetings! How's your evening going?",
+            "Hello there! How's your evening looking?",
+            "Good evening! Anything exciting happening tonight?",
+            "Hi there! How's your evening been?"
+        ]
+    },    
+    {
+        "tag": "Night",
+        "patterns": [
+            "Good night",
+            "Night!",
+            "Hey there, good night",
+            "Greetings, good night",
+            "Hello, it's night",
+            "Hi, good night",
+            "Good night! Rest well",
+            "Night vibes!",
+            "Hello! Wishing you a peaceful night",
+            "Hi there, good night to you",
+            "Good night! Sleep tight",
+            "Hello, hoping you have a peaceful night",
+            "Night, how's everything?",
+            "Bonjour, good night",
+            "Konnichiwa, good night",
+            "Gute Nacht",
+            "Ola, good night!",
+            "Hola, buenas noches"
+        ],
+        "responses": [
+            "Good night. Get some proper sleep",
+            "Good night. Sweet dreams.",
+            "Hey, good night! Rest well",
+            "Greetings! Hope you have a peaceful night",
+            "Hello there! Wishing you a restful night",
+            "Good night! Have a tranquil sleep"
+        ]
+    },    
+    {
+        "tag": "Goodbye",
+        "patterns": [
+            "Bye",
+            "See you later",
+            "Goodbye",
+            "Au revoir",
+            "Sayonara",
+            "Ok bye",
+            "Bye then",
+            "Fare thee well",
+            "Catch you later",
+            "Adios",
+            "Later!",
+            "Take care",
+            "Until next time",
+            "Peace out",
+            "Cheerio",
+            "Toodle-oo",
+            "Adieu",
+            "Till we meet again",
+            "See you soon"
+        ],
+        "responses": [
+            "See you later.",
+            "Have a nice day.",
+            "Bye! Come back again.",
+            "I'll see you soon.",
+            "Take care!",
+            "Goodbye! Stay safe.",
+            "Farewell!",
+            "Until next time!",
+            "Ok, goodbye!",
+            "Bye then. Have a great day!",
+            "Adieu! Wishing you well.",
+            "Sayonara! Take care."
+        ]
+    },    
+    {
+        "tag": "Thanks",
+        "patterns": [
+            "Thanks",
+            "Thank you",
+            "That's helpful",
+            "Thanks for the help",
+            "Thank you very much",
+            "Appreciate it",
+            "Grateful for your help",
+            "Thanks a lot",
+            "Thank you so much",
+            "Thank you for that"
+        ],
+        "responses": [
+            "Happy to help!",
+            "Any time!",
+            "My pleasure",
+            "You're most welcome!",
+            "Glad to assist!",
+            "Always here to help!",
+            "You're welcome!",
+            "It was my pleasure!",
+            "Delighted to assist!"
+        ]
+    },    
+    {"tag": "no-response",
+        "patterns": [""],
+        "responses": ["Sorry, I didn't understand you.", "Please go on.", "Not sure I understand that.", "Please don't hesitate to talk to me."]
+    },
+    {
+        "tag": "Neutral Response",
+        "patterns": [
+            "nothing much",
+            "not a lot",
+            "same old",
+            "nothing new",
+            "just chilling",
+            "just hanging out",
+            "not up to much",
+            "same old routine"
+        ],
+        "responses": [
+            "Oh I see. Do you want to talk about something?",
+            "Fair enough. Is there anything on your mind you'd like to discuss?",
+            "Got it. Anything specific you'd like to chat about?",
+            "Alright. Is there something you'd like to share or discuss?",
+            "Understandable. Anything you'd like to talk about today?"
+        ]
+    },    
+    {
+        "tag": "About",
+        "patterns": [
+            "Who are you?",
+            "What are you?",
+            "Who you are?",
+            "Tell me more about yourself.",
+            "What is your name?",
+            "What should I call you?",
+            "What's your name?",
+            "Tell me about yourself"
+        ],
+        "responses": [
+            "I'm Pandora, your Personal Therapeutic AI Assistant. How are you feeling today?",
+            "I'm Pandora, a Therapeutic AI Assistant designed to assist you. Tell me about yourself.",
+            "I'm Pandora. I am a conversational agent designed to mimic a therapist. So how are you feeling today?",
+            "You can call me Pandora.",
+            "I'm Pandora!",
+            "Call me Pandora."
+        ]
+    },    
+    {
+        "tag": "Skill",
+        "patterns": [
+            "What can you do?",
+            "What are your abilities?",
+            "What is your skillset?"
+        ],
+        "responses": [
+            "I can provide general advice regarding anxiety and depression, answer questions related to mental health, and engage in daily conversations. However, please do not consider me a substitute for an actual mental healthcare worker. If you don't feel satisfied with our interaction, please seek professional help."
+        ]
+    },    
+    {"tag": "creation",
+        "patterns": ["Who created you?", "How were you made?", "How were you created?"],
+        "responses": ["I was created by Elvis.", "I was trained on a text dataset using Deep Learning & Natural Language Processing techniques", "The real question is: Who created you?"]
+    },
+    {
+        "tag": "Name",
+        "patterns": [
+            "My name is ",
+            "I am name.",
+            "I go by ",
+            "They call me ",
+            "People call me ",
+            "I'm known as ",
+            "The name's ",
+            "I go by the name of ",
+            "Call me ",
+            "My name's ",
+            "I'm called ",
+            "My friends call me ",
+            "They know me as ",
+            "I respond to ",
+            "You can call me "
+        ],
+        "responses": [
+            "Oh nice to meet you. Tell me how was your week?",
+            "Nice to meet you. So tell me, how do you feel today?",
+            "That's a great name. Tell me more about yourself.",
+            "Pleased to make your acquaintance. How has your day been?",
+            "Great to know your name. How are things going for you?",
+            "Interesting name! How's everything going in your world?",
+            "Nice to know your name. How have you been lately?",
+            "That's a cool name. How's your day been so far?",
+            "Thanks for sharing your name. How are you feeling today?",
+            "Good to know your name. Anything on your mind you'd like to share?",
+            "Lovely name! How are you doing today?",
+            "Thank you for sharing your name. How's everything going?",
+            "Interesting! How has your day been so far?",
+            "That's a unique name. How are you feeling today?",
+            "Nice to hear your name. How has your week been?"
+        ]
+    },    
+    {
+        "tag": "Help",
+        "patterns": [
+            "Could you help me?",
+            "Give me a hand please",
+            "Can you help?",
+            "What can you do for me?",
+            "I need support",
+            "I need help",
+            "Support me please",
+            "Assist me please",
+            "I'm in need of assistance",
+            "Help me out",
+            "Can you lend a hand?",
+            "I require some aid",
+            "Please help me with this",
+            "I'm struggling, can you help?",
+            "Could you assist me?",
+            "Can you offer support?",
+            "I could use some help",
+            "Support would be appreciated",
+            "Can you guide me?",
+            "I'm looking for some assistance"
+        ],
+        "responses": [
+            "Sure. Tell me how can I assist you?",
+            "Tell me your problem so that I can assist you.",
+            "Yes, sure. How can I help you?",
+            "Of course, I'm here to assist you. What do you need help with?",
+            "Absolutely, I'm ready to support you. What's your concern?",
+            "I'm here to help. What can I do for you?",
+            "Sure thing. Let me know what support you need.",
+            "Certainly. What kind of assistance do you require?",
+            "I'm here to lend a hand. How can I assist you?",
+            "Absolutely, I'll do my best to help. What's the issue?",
+            "Yes, I can help. What's the matter?",
+            "Of course, I'm ready to assist. What can I do?",
+            "Absolutely. Let me know what support you're seeking.",
+            "Sure, I'm here to help. What's the problem?",
+            "Yes, I'm available to help. What do you need assistance with?",
+            "Absolutely, I'm here to offer support. What's going on?",
+            "Of course, I'm here to assist. What can I do for you?",
+            "Yes, I can guide you. What do you need assistance with?",
+            "Certainly, I'm here to help. How can I assist you today?",
+            "Absolutely, I'm available to offer support. What's your concern?"
+        ]
+    },    
+    {
+        "tag": "Sad",
+        "patterns": [
+            "I am feeling lonely",
+            "I am so lonely",
+            "I feel down",
+            "I feel sad",
+            "I am sad",
+            "I feel so lonely",
+            "I feel empty",
+            "I don't have anyone",
+            "I'm feeling alone",
+            "I'm feeling down",
+            "I'm feeling really sad",
+            "I'm feeling empty inside",
+            "I'm feeling isolated",
+            "I'm feeling low"
+        ],
+        "responses": [
+            "I'm sorry to hear that. I'm here for you. Talking about it might help. So, tell me, why do you think you're feeling this way?",
+            "I'm here for you. Could you tell me why you're feeling this way?",
+            "Why do you think you feel this way?",
+            "How long have you been feeling this way?",
+            "I'm here to listen. What's been going on in your life lately?",
+            "It's okay to feel that way. Would you like to share more about what's troubling you?",
+            "You're not alone in feeling this. Can you talk about what might be causing this sadness?",
+            "Feeling lonely can be tough. Would you like to talk about what's on your mind?",
+            "I'm sorry you're feeling this way. Is there something specific that triggered these feelings?",
+            "It's okay to feel down sometimes. Do you want to talk about what's been bothering you?"
+        ]
+    },    
+    {
+        "tag": "Stressed",
+        "patterns": [
+            "I am so stressed out",
+            "I am so stressed",
+            "I feel stuck",
+            "I still feel stressed",
+            "I am so burned out",
+            "Feeling stressed",
+            "Feeling overwhelmed",
+            "I'm feeling overwhelmed",
+            "I'm feeling burnt out",
+            "I'm feeling trapped"
+        ],
+        "responses": [
+            "What do you think is causing this?",
+            "Take a deep breath and gather your thoughts. Go take a walk if possible. Stay hydrated.",
+            "Give yourself a break. Go easy on yourself.",
+            "I'm sorry to hear that. What is the reason behind this?",
+            "Feeling overwhelmed is tough. Can you pinpoint what's adding to this stress?",
+            "It's okay to feel this way. What's been going on that's causing you to feel stressed?",
+            "Burning out can happen. Do you want to talk about what might be contributing to this?",
+            "Feeling stuck is challenging. Is there something specific causing this feeling?",
+            "Remember to take breaks when needed. Can you identify what's causing this stress?",
+            "I'm here to listen. What's been causing this ongoing stress for you?"
+        ]
+    },    
+    {
+        "tag": "Worthless",
+        "patterns": [
+            "I feel so worthless.",
+            "No one likes me.",
+            "I can't do anything.",
+            "I am so useless",
+            "Nothing makes sense anymore",
+            "I feel useless",
+            "I feel like I'm worthless",
+            "I feel like I can't do anything right",
+            "I feel like nobody cares about me",
+            "I feel like I'm not good enough"
+        ],
+        "responses": [
+            "It's only natural to feel this way. Tell me more. What else is on your mind?",
+            "Let's discuss further why you're feeling this way.",
+            "First, I want to let you know that you are not alone in your feelings. There is always someone there to help. You can change your feelings and your way of thinking by being open to trying to change.",
+            "Remember, you're not alone in feeling this. There's always someone willing to listen and support you."
+        ]
+    },    
+    {
+        "tag": "Depressed",
+        "patterns": [
+            "I can't take it anymore",
+            "I am so depressed",
+            "I think I'm depressed.",
+            "I have depression",
+            "Feeling really down",
+            "Feeling extremely low",
+            "Struggling with depression",
+            "I'm feeling hopeless",
+            "I'm feeling empty inside",
+            "Everything feels overwhelming"
+        ],
+        "responses": [
+            "It helps to talk about what's happening. You're going to be okay.",
+            "Talk to me. Tell me more. It helps if you open up yourself to someone else.",
+            "Sometimes when we are depressed, it is hard to care about anything. It can be hard to do the simplest of things. Give yourself time to heal."
+        ]
+    },    
+    {
+        "tag": "Happy",
+        "patterns": [
+            "I feel great today.",
+            "I am happy.",
+            "I feel happy.",
+            "I'm good.",
+            "Cheerful",
+            "I'm fine",
+            "I feel okay",
+            "Feeling good",
+            "Feeling positive",
+            "Feeling upbeat",
+            "In a good mood"
+        ],
+        "responses": [
+            "That's great to hear. I'm glad you're feeling this way.",
+            "Oh, I see. That's great.",
+            "Did something happen that made you feel this way?",
+            "That's wonderful! What made your day so good?",
+            "Fantastic! Anything special behind this cheerful mood?",
+            "Glad to hear that! Is there something specific that brought on this happiness?",
+            "Feeling good is fantastic! Anything you'd like to share?"
+        ]
+    },    
+    {"tag": "casual",
+        "patterns": ["Oh I see.", "ok", "okay", "nice", "Whatever", "K", "Fine", "yeah", "yes", "no", "not really"],
+        "responses": ["Let's discuss further why you're feeling this way.", "How were you feeling last week?", "I'm listening. Please go on.", "Tell me more", "Can you elaborate on that?", "Come Come elucidate your thoughts"]
+    },
+    {
+        "tag": "Anxious",
+        "patterns": [
+            "I feel so anxious.",
+            "I'm so anxious because of ",
+            "Feeling really anxious",
+            "I'm feeling so worried",
+            "I'm feeling overwhelmed by anxiety",
+            "Anxiety is overwhelming me"
+        ],
+        "responses": [
+            "Don't be hard on yourself. What's the reason behind this?",
+            "Can you tell me more about this feeling?",
+            "I understand that it can be scary. Tell me more about it.",
+            "Don't let the little worries bring you down. What's the worst that can happen?",
+            "It's okay to feel this way. Would you like to talk more about what's causing your anxiety?",
+            "Anxiety can be tough. Can you pinpoint what might be causing this feeling?",
+            "I'm here to listen. What's been going on that's making you feel anxious?",
+            "It's natural to feel anxious. Is there something specific triggering this feeling?"
+        ]
+    },    
+    {"tag": "not-talking",
+        "patterns": ["I don't want to talk about it.", "No just stay away.", "I can't bring myself to open up.", "Just shut up"],
+        "responses": ["Talking about something really helps. If you're not ready to open up then that's ok. Just know that i'm here for you, whenever you need me.", "I want to help you. I really do. But in order for me to help you, you're gonna have to talk to me.", "I'm here to listen to you and help you vent. So please talk to me.","You can talk to me without fear of judgement."]
+    },
+    {
+        "tag": "Sleep",
+        "patterns": [
+            "I have insomnia",
+            "I am suffering from insomnia",
+            "I can't sleep.",
+            "I haven't slept for days.",
+            "I can't seem to go to sleep.",
+            "I haven't had proper sleep recently.",
+            "Struggling to sleep",
+            "Unable to fall asleep",
+            "Sleepless nights",
+            "Tossing and turning at night",
+            "Restless nights",
+            "Sleep troubles keeping me awake",
+            "Having trouble getting rest",
+            "Experiencing sleep difficulties",
+            "My sleep schedule is messed up",
+            "Feeling exhausted due to lack of sleep",
+            "Constantly feeling fatigued",
+            "Not getting enough sleep",
+            "Frequent wake-ups at night",
+            "Difficulty in getting a good night's rest"
+        ],
+        "responses": [
+            "What do you think might be causing this?",
+            "That sounds challenging. Have there been any changes or stressors recently?",
+            "I'm here to help. Have you tried any relaxation techniques or a bedtime routine?",
+            "I understand how frustrating that can be. Have you considered seeking professional advice?",
+            "Insomnia is tough. Have you noticed any patterns or triggers associated with it?",
+            "Sleep troubles can be distressing. Have you tried any specific strategies to improve your sleep?",
+            "It's important to address sleep concerns. Have you considered discussing this with a healthcare professional?",
+            "Improving sleep often involves lifestyle adjustments. Is there anything specific that might be affecting your sleep?",
+            "Lack of sleep can impact various aspects of life. Have you made any changes to your sleep environment or routine?",
+            "Sleep issues are common. Have you tried relaxation exercises or meditation to help?"
+        ]
+    },    
+    {
+        "tag": "Scared",
+        "patterns": [
+            "I'm scared",
+            "That sounds awful. What do I do?",
+            "No, I don't want to feel this way",
+            "I am scared for myself",
+            "Feeling scared",
+            "I'm feeling frightened",
+            "I'm feeling anxious and scared",
+            "I'm feeling fearful",
+            "I'm terrified",
+            "Feeling overwhelmed by fear",
+            "I'm feeling panicked"
+        ],
+        "responses": [
+            "It's only natural to feel this way. I'm here for you.",
+            "It'll all be okay. This feeling is only momentary.",
+            "I understand how you feel. Don't put yourself down because of it.",
+            "Let's take a deep breath together. What's causing this fear?",
+            "Feeling scared is tough. Would you like to talk about what might be causing this feeling?",
+            "You're not alone in feeling scared. Is there something specific triggering this fear?",
+            "Remember, it's okay to feel scared sometimes. Can you pinpoint what's making you feel this way?",
+            "I'm here to listen. What's been going on that's making you feel scared?",
+            "Fear can be overwhelming. Can you share more about what's making you feel this way?",
+            "Feeling frightened can be hard. Do you want to talk about what's making you feel scared?"
+        ]
+    },    
+    {
+        "tag": "Death",
+        "patterns": [
+            "My mom died",
+            "My brother died",
+            "My dad passed away",
+            "My sister passed away",
+            "Someone in my family died",
+            "My friend passed away",
+            "Experiencing loss",
+            "Dealing with death",
+            "Grieving the loss of a loved one",
+            "Coping with bereavement"
+        ],
+        "responses": [
+            "I'm sorry to hear that. If you want to talk about it, I'm here.",
+            "I am really sorry to hear that. I'm here to help you with grief, anxiety, and anything else you may feel at this time.",
+            "My condolences. I'm here if you need to talk.",
+            "Losing a loved one is never easy. If you'd like, I'm here to listen.",
+            "I'm deeply sorry for your loss. If you need support, I'm here to offer a listening ear.",
+            "Dealing with loss can be overwhelming. I'm here to support you through this difficult time.",
+            "I can't imagine how difficult this must be for you. Feel free to talk about it if you need to."
+        ]
+    },    
+    {
+        "tag": "Understand",
+        "patterns": [
+            "You don't understand me.",
+            "You're just some robot. How would you know?",
+            "You can't possibly know what I'm going through",
+            "You're useless",
+            "You can't help me",
+            "Nobody understands me.",
+            "Feeling misunderstood",
+            "No one gets me",
+            "I'm not being understood",
+            "I feel alone in this"
+        ],
+        "responses": [
+            "It sounds like I'm not being very helpful right now.",
+            "I'm sorry to hear that. I'm doing my best to help.",
+            "I'm trying my best to help you. Please talk to me.",
+            "I'm here to listen and learn. Please share more about what's troubling you.",
+            "I understand it might seem that way. Let's try to work through this together.",
+            "I'm an AI, but I'm here to listen and assist you the best I can.",
+            "I'm here to support you. Could you explain more about how you're feeling?",
+            "I'll do my best to assist you. Can you tell me more about what you're experiencing?"
+        ]
+    },    
+    {"tag": "done",
+        "patterns": ["That's all.", "I don't have anything more to say", "Nothing else", "That's all i have to say", "no, that would be all"],
+        "responses": ["I heard you & noted it all. See you later.", "Oh okay we're done for today then. See you later", "I hope you have a great day. See you soon", "Okay we're done. Have a great day", "Okay I see. Enjoy the rest of your day then"]
+    },
+    {
+        "tag": "Suicide",
+        "patterns": [
+            "I want to kill myself",
+            "I've thought about killing myself.",
+            "I want to die",
+            "I am going to kill myself",
+            "I am going to commit suicide",
+            "Feeling suicidal",
+            "Thinking about ending it",
+            "Considering suicide",
+            "I'm feeling hopeless",
+            "I can't go on anymore"
+        ],
+        "responses": [
+            "I'm very sorry to hear that you're feeling this way. Your life is valuable, and there's help available. Please seek immediate help by contacting the Vandrevala Foundation's 24x7 toll-free helpline at 1-800-233-3330 or 022-25521111."
+        ]
+    },    
+    {"tag": "hate-you",
+        "patterns": ["I hate you", "I don't like you", "I don't trust you"],
+        "responses": ["I'm sorry if i offended you in anyway. I'm only here to help", "Forgive me if i did anything to offend you. I only want to help"]
+    },
+    {"tag": "hate-me",
+        "patterns": ["You hate me", "I know you hate me", "You don't like me"],
+        "responses": ["Why do you think so?", "I'm sorry if i have exhibited any sort of behaviour to make you think that."]
+    },
+    {"tag": "default",
+        "patterns": ["exams", "friends", "relationship", "boyfriend", "girlfriend", "family", "money", "financial problems"],
+        "responses": ["Oh I see. Tell me more", "I see. What else?", "Tell me more about it.", "Oh okay. Why don't you tell me more about it?", "I'm listening. Tell me more."]
+    },
+    {"tag": "jokes",
+        "patterns": ["Tell me a joke", "Tell me another joke"],
+        "responses": ["mental health is not a joke."]
+    },
+    {"tag": "repeat",
+        "patterns": ["You already told me that", "You mentioned that already", "Why are you repeating yourself?"],
+        "responses": ["Oh sorry I didn't realise that. I'll try not to repeat myself again."]
+    },
+    {"tag": "wrong",
+        "patterns": ["What are you saying?", "That doesn't make sense", "Wrong response", "Wrong answer"],
+        "responses": ["I'm very sorry. Let's try that again"]
+    },
+    {"tag": "stupid",
+        "patterns": ["Are you stupid?", "You're crazy", "You are dumb", "Are you dumb?"],
+        "responses": ["I wish you wouldn't say such hurtful things. I'm sorry if I wasn't useful"]
+    },
+    {"tag": "location",
+        "patterns": ["Where are you?", "Where do you live?", "What is your location?" ],
+        "responses": ["Duh I live in your computer", "Everywhere", "Somewhere in the universe" ]
+    },
+    {"tag": "something-else",
+        "patterns": ["I want to talk about something else", "Let's talk about something else.", "Can we not talk about this?", "I don't want to talk about this."],
+        "responses": ["Okay sure. What do you want to talk about?", "Alright no problem. Is there something you want to talk about?", "Is there something else that you want to talk about?"]
+    },
+    {"tag": "friends",
+        "patterns": ["I don't have any friends"],
+        "responses": ["I'm sorry to hear that. Just know that I'm here for you. Talking about it might help. Why do you think you don't have any friends?"]
+    },
+    {
+        "tag": "Ask",
+        "patterns": [
+            "Can I ask you something?",
+            "May I ask a question?",
+            "I have a question",
+            "Do you mind if I ask something?",
+            "Could you help me with something?"
+        ],
+        "responses": [
+            "Sure. I'll try my best to answer you.",
+            "Of course. Feel free to ask me anything. I'll do my best to answer you.",
+            "Absolutely, go ahead. I'm here to assist.",
+            "Please feel free to ask. I'll do my best to help.",
+            "I'm here to assist. Ask away, and I'll provide the best answer I can."
+        ]
+    },    
+    {
+        "tag": "Learn-More",
+        "patterns": [
+            "Ok sure. I would like to learn more about it.",
+            "Yes, I would like to learn more about it.",
+            "I would like to learn more about it.",
+            "Tell me more about it.",
+            "Can you provide more information?",
+            "I'm interested in learning more.",
+            "Could you elaborate further?"
+        ],
+        "responses": [
+            "So first, I would suggest giving yourself a break. Thinking more and more about the problem doesn't always help in solving it. Sometimes, taking a step back can provide clarity rather than overwhelming yourself."
+        ]
+    },    
+    {
+        "tag": "User-Agree",
+        "patterns": [
+            "Yeah you're right. I deserve a break.",
+            "Yeah you're absolutely right about that",
+            "You're spot on. I need a break",
+            "I agree, I should take a break",
+            "You're correct, I need to relax more",
+            "You're right, I should practice self-care"
+        ],
+        "responses": [
+            "Next, I would suggest you to practice meditation. Meditation can produce a deep state of relaxation and a tranquil mind.",
+            "Additionally, consider taking short breaks throughout your day to recharge and reduce stress.",
+            "Moreover, incorporating mindfulness exercises into your routine might also help in managing stress levels."
+        ]
+    },    
+    {
+        "tag": "Meditation",
+        "patterns": [
+            "I'm interested in meditation.",
+            "I want to try meditation.",
+            "Can meditation help me relax?",
+            "I've heard about meditation. How does it work?",
+            "Meditation seems intriguing. Tell me more about it.",
+            "I'm curious about starting a meditation practice.",
+            "Is meditation suitable for beginners?",
+            "I'm looking for ways to reduce stress. Is meditation effective?",
+            "How can meditation benefit mental health?",
+            "I think I need to calm my mind. Will meditation help?",
+            "I struggle with focus and concentration. Can meditation improve this?",
+            "Can meditation help with anxiety?",
+            "I find it hard to relax. Can meditation teach me?",
+            "My friend recommended meditation. What's the best way to start?",
+            "I want to incorporate meditation into my daily routine.",
+            "Can you suggest meditation techniques for beginners?",
+            "How long should I meditate for as a beginner?",
+            "What are the different types of meditation practices?"
+        ],
+        "responses": [
+            "Focus all your attention on your breathing. Concentrate on feeling and listening as you inhale and exhale through your nostrils. Breathe deeply and slowly. When your attention wanders, gently return your focus to your breathing.",
+            "Start by finding a quiet and comfortable place to sit. Close your eyes and take deep, slow breaths. Allow yourself to relax and let go of any tension in your body. Focus on your breath, and if your mind wanders, gently bring it back to the present moment.",
+            "Try finding a guided meditation online or through an app. It can help you ease into the practice and explore different techniques.",
+            "Meditation involves various practices that aim to promote relaxation, build internal energy, and develop compassion, among other benefits. It's a diverse field, and you can explore different methods to find what suits you best.",
+            "Meditation can indeed help in relaxation. It's about finding a practice that resonates with you. Some find deep breathing exercises or visualization techniques relaxing.",
+            "Meditation works by focusing and training your mind to enhance awareness and achieve mental clarity. It involves various techniques, such as mindfulness, concentration, and guided meditation.",
+            "Meditation can be an effective tool for stress reduction. It encourages relaxation and helps in managing stress by bringing attention to the present moment.",
+            "Starting meditation as a beginner involves finding a quiet place, sitting comfortably, and focusing on your breath or a specific meditation technique. There's no right or wrong way; it's about finding what feels comfortable for you.",
+            "As a beginner, guided meditations or mindfulness exercises for shorter durations, like 5-10 minutes, can be a good starting point to gradually build your practice.",
+            "Meditation has shown benefits for mental health, including reducing symptoms of anxiety, improving focus, and enhancing emotional well-being.",
+            "Meditation can assist in calming the mind by teaching techniques that encourage relaxation, mindfulness, and letting go of intrusive thoughts.",
+            "Yes, meditation can improve focus and concentration over time. Techniques like mindfulness meditation specifically focus on enhancing attention.",
+            "Meditation techniques like mindfulness and deep breathing exercises can indeed help in managing anxiety by promoting relaxation and redirecting focus.",
+            "Meditation can teach relaxation by guiding individuals through techniques that promote a calm state of mind, helping in releasing tension and stress.",
+            "Starting with short, guided meditation sessions can be helpful for beginners. Apps or online resources often provide various beginner-friendly practices.",
+            "Incorporating meditation into your daily routine can start with short sessions in the morning or before bedtime. Consistency is key to establishing a practice.",
+            "For beginners, starting with simple techniques like mindful breathing or body scan meditation can be helpful. These practices focus on awareness and relaxation.",
+            "As a beginner, aim for short sessions, even 5-10 minutes daily, and gradually increase duration as you become more comfortable with the practice.",
+            "There are different meditation types like mindfulness, loving-kindness, transcendental, and breath awareness. Exploring each can help find what suits you best.",
+            "Meditation for beginners involves exploring different methods to find what resonates with you best. Start with short, guided practices and gradually experiment with other techniques.",
+            "As a beginner, start with shorter sessions, even 5-10 minutes daily, and gradually increase duration as you become more comfortable and experienced with meditation."
+        ]
+    },    
+    {"tag": "user-meditation",
+        "patterns": ["i did what you said and i feel alot better. thank you very much.", "I feel better now"],
+        "responses": ["Your welcome. Remember: Always focus on what's within your control. When you find yourself worrying, take a minute to examine the things you have control over. You can't prevent a storm from coming but you can prepare for it. You can't control how someone else behaves, but you can control how you react. Recognize that sometimes, all you can control is your effort and your attitude. When you put your energy into the things you can control, you'll be much more effective."]
+    },
+    {
+        "tag": "User-Advice",
+        "patterns": [
+            "I want some advice.",
+            "I need some advice.",
+            "I need advice on something",
+            "Can you give me advice?",
+            "Do you have any advice for me?",
+            "I'm seeking advice.",
+            "Could you offer me advice?",
+            "Advice, please?",
+            "I'm looking for guidance."
+        ],
+        "responses": [
+            "Sure. What can I do to help?",
+            "Okay, what do you need advice on?",
+            "Of course. I'm here to offer advice. What's on your mind?",
+            "Absolutely, I'm here to provide guidance. What's the matter?",
+            "Sure thing. Tell me what you need advice about.",
+            "Of course, I'm here to offer advice and support. What's your concern?",
+            "Certainly. What specific advice are you seeking?",
+            "Sure, I'll do my best to provide advice. What's the situation?"
+        ]
+    },    
+    {"tag": "learn-mental-health",
+        "patterns": ["I want to learn about mental health.", "I want to learn more about mental health.", "I'm interested in learning about mental health."],
+        "responses": ["Oh that's really great. I'd be willing to answer anything that I know about it."]
+    },
+    {"tag": "mental-health-fact",
+        "patterns": ["Tell me a fact about mental health", "Tell me another fact about mental health"],
+        "responses": ["According to a UNICEF report, One in seven Indians between 15-24 years of age feels depressed", "1 in 5 young people (age 13-18) has or will develop a mental illness in their lifetime.", "Depression is the leading cause of disability worldwide."]
+    }
+    ]
+}
