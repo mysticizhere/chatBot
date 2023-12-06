@@ -23,14 +23,11 @@ with open('label_encoder.pickle', 'rb') as enc:
     lbl_encoder = pickle.load(enc)
 
 # Chat function
-def chat():
-    while True:
-        print('User: ', end="")
-        user_input = input()
+def chat_function(user_input):
 
         if user_input.lower() == 'quit':
-            print('CareBot: Take care. See you soon.')
-            break
+            return ('CareBot: Take care. See you soon.')
+            # break
 
         # Predict using the model
         sequences = tokenizer.texts_to_sequences([user_input])
@@ -42,17 +39,5 @@ def chat():
         for intent in data['intents']:
             if intent['tag'] == predicted_tag:
                 responses = intent['responses']
-                print('CareBot:', np.random.choice(responses))
-        #     else:
-        #         print('CareBot:', 'I am sorry I did not understand you, try to rephrase your statement')
-        # for intent in data['intents']:
-        #     if intent['tag'] == predicted_tag:
-        #         responses = intent['responses']
-        #         print('CareBot:', np.random.choice(responses))
-        #         break
-        # else:
-        #     print('CareBot:', 'I am sorry I did not understand you, try to rephrase your statement')
+                return ( np.random.choice(responses))
 
-
-print('Start talking with CareBot. (Type quit to stop talking)')
-chat()
